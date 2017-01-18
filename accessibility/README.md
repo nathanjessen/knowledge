@@ -1,5 +1,12 @@
 # Accessibility
 
+## Color Contrast
+
+- [Add Colors To Your Palette With Color Mixing](https://www.viget.com/articles/add-colors-to-your-palette-with-color-mixing)
+- [Color Contrast for Better Readability](https://www.viget.com/articles/color-contrast)
+
+## Additional Resources
+
 * [The A11Y Project](http://a11yproject.com/) &mdash; Collection of resources
 * [The Accessibility Cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet/) &mdash; Article
 * [How to Meet WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/) &mdash; Reference
@@ -19,3 +26,5 @@
 * [Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb) &mdash; Chrome Extension
 * [ChromeLens](http://chromelens.xyz/) &mdash; Chrome Extension
 * [ChromeVox](https://chrome.google.com/webstore/detail/chromevox/kgejglhpjiefppelpmljglcjbhoiplfn) &mdash; Chrome Extension
+* [ally.js](https://allyjs.io/)
+* [Accessible floating labels](http://allthingssmitty.com/2016/09/25/accessible-floating-labels/)
