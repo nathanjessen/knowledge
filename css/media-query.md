@@ -1,9 +1,5 @@
 # Media Query
 
-## Print
-
-- [Gutenberg](https://github.com/BafS/Gutenberg)
-
 ## Pointer Media Query
 
 Allows us to determine if the user is using their finger or a mouse.
