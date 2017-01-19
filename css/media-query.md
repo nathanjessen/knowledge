@@ -10,7 +10,7 @@ Allows us to determine if the user is using their finger or a mouse.
 @media (pointer: coarse) {}
 ```
 
-** Values **
+**Values**
 
 1. `none`: device does not include a primary pointing device.
 1. `coarse`: pointing device of limited accuracy such as a touchscreen or motion-detection sensor.

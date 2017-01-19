@@ -22,7 +22,7 @@ The Feature Query tests the property and value so both need to be provided. In m
 
 ## Best Practices
 
-** DO NOT write code like this **
+**DO NOT write code like this**
 
 ```CSS
 @supports not (display: grid) {
@@ -33,7 +33,7 @@ The Feature Query tests the property and value so both need to be provided. In m
 }
 ```
 
-** DO write code like this **
+**DO write code like this**
 
 ```CSS
 /* fallback code for older browsers */

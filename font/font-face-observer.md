@@ -11,7 +11,7 @@ Tracks when fonts are loaded
 - Add a class to the document to toggle rendering of the custom font
 - Set a mark in storage for future page views to simplify JS on future page views
 
-** CSS **
+**CSS**
 
 ```CSS
 @font-face {
@@ -32,7 +32,7 @@ body {
 }
 ```
 
-** JavaScript in `<head>` **
+**JavaScript in `<head>`**
 
 ```JS
 /* include loadJS library */
@@ -47,7 +47,8 @@ if (sessionStorage.getItem('fonts-loaded')) {
 }
 ```
 
-** JavaScript in `font.js` **
+**JavaScript in `font.js`**
+
 ```JS
 /* incude Font Face Observer script */
 

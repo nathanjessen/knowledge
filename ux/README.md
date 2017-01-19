@@ -28,4 +28,6 @@
 </footer>
 ```
 
-** Source: ** [Designing Confirmation](https://uxdesign.cc/designing-confirmation-278d159723e#.rafzk5p6v)
+## Resources
+
+- [Designing Confirmation](https://uxdesign.cc/designing-confirmation-278d159723e#.rafzk5p6v)
