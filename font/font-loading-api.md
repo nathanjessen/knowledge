@@ -1,6 +1,7 @@
 # Font Loading API
 
 - [Font Loading API](https://drafts.csswg.org/css-font-loading)
+- [CanIUse](http://caniuse.com/#feat=font-loading)
 
 ```JS
 if("fontDisplay" in document.body.style === false) {

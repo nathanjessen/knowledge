@@ -16,6 +16,38 @@ Chrome stops waiting for a web font after 3 seconds. Instead of showing you invi
 1. Font Loading API
 1. Font Display Property
 
+## Font Stacks
+
+| Wordpress          | Medium             | Ghost              | Github             |
+| ------------------ | ------------------ | ------------------ | ------------------ |
+| -apple-system      | -apple-system      | -apple-system      | -apple-system      |
+| BlinkMacSystemFont | BlinkMacSystemFont | BlinkMacSystemFont | BlinkMacSystemFont |
+| "Segoe UI"         | "Segoe UI"         | "Segoe UI"         | "Segoe UI"         |
+| Roboto             | Roboto             | Roboto             | Roboto             |
+| Oxygen-Sans        | Oxygen             | Oxygen             | Helvetica          |
+| Ubuntu             | Ubuntu             | Ubuntu             | Arial              |
+| Cantarell          | Cantarell          | Cantarell          | sans-serif         |
+| "Helvetica Neue"   | "Open Sans"        | "Fira Sans"        ||
+| sans-serif         | "Helvetica Neue"   | "Droid Sans"       ||
+|                    | sans-serif         | "Helvetica Neue"   ||
+|                    |                    | sans-serif         ||
+
+**Sample Font Stacks**
+
+```CSS
+:root {
+  --font-stack-wordpress: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  --font-stack-medium: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  --font-stack-ghost: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  --font-stack-github: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+body {
+  font-family: var(--font-stack-wordpress);
+}
+```
+
 ## Resources
 
 - [Web fonts](https://meowni.ca/posts/web-fonts/)
+- [The New System Font Stack?](https://bitsofco.de/the-new-system-font-stack/)
