@@ -68,3 +68,5 @@ robotoFamily
 
 - [Font loading strategy for static generated sites](https://jeremenichelli.github.io/2016/05/font-loading-strategy-static-generated-sites/)
 - [font-strategy-static](https://github.com/jeremenichelli/font-strategy-static/)
+- [Loading web fonts asynchronously](https://calendar.perfplanet.com/2016/loading-web-fonts-asynchronously/)
+- [How We Load Web Fonts Progressively](https://www.filamentgroup.com/lab/font-events.html)

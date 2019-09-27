@@ -51,3 +51,9 @@ body {
 
 - [Web fonts](https://meowni.ca/posts/web-fonts/)
 - [The New System Font Stack?](https://bitsofco.de/the-new-system-font-stack/)
+- [Web Font Optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization)
+- [CanIUse woff](http://caniuse.com/#search=woff)
+- [Case Study – Analyzing Web Font Performance](https://www.keycdn.com/blog/web-font-performance/)
+- [Google's webfontloader](https://github.com/typekit/webfontloader)
+- [A Comprehensive Guide to Font Loading Strategies](https://www.zachleat.com/web/comprehensive-webfonts/)
+- [Typography Handbook](http://typographyhandbook.com/)
