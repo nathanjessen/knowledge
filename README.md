@@ -2,6 +2,8 @@
 
 Document everything. This repository will contain notes on a wide variety of topics.
 
+** Deprecated: No longer being updated **
+
 ## See Also
 
 Motivation for this repository came from seeing other developers create their own knowledge repository.
