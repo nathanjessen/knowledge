@@ -2,7 +2,7 @@
 
 Document everything. This repository will contain notes on a wide variety of topics.
 
-** Deprecated: No longer being updated **
+**Deprecated: No longer being updated**
 
 ## See Also
 
