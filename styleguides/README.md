@@ -9,6 +9,7 @@
 
 ## Tips
 
+- Use [Storybook](https://storybook.js.org/)
 - Start from a boilerplate ([Style-Guide-Boilerplate](https://github.com/bjankord/Style-Guide-Boilerplate))
 
 ## Recommended Generators
