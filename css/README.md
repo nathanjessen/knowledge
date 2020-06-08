@@ -46,10 +46,10 @@ No need to resort to another element to wrap the first letter or line of a `<p>`
 
 ```CSS
 p::first-letter {
-font-size: 2rem;
+  font-size: 2rem;
 }
 
 p::first-line {
-font-weight: 600;
+  font-weight: 600;
 }
 ```
