@@ -52,3 +52,32 @@ git cherry-pick master
 git checkout master
 git reset HEAD~ --hard
 ```
+
+### I need to update a forked repository.
+
+```bash
+# Add the remote, call it "upstream":
+
+git remote add upstream https://github.com/whoever/whatever.git
+
+# Fetch all the branches of that remote into remote-tracking branches,
+# such as upstream/main or upstream/master:
+
+git fetch upstream
+
+# Make sure that you're on your main branch:
+
+git checkout main
+
+# Rewrite your main branch so that any commits of yours that
+# aren't already in upstream/main are replayed on top of that
+# other branch:
+
+git rebase upstream/main
+
+# If you don't want to rewrite the history of your main branch, (for example because other people may have cloned it) then you should replace the last command with
+git merge upstream/main
+
+# If you've rebased your branch onto upstream/main you may need to force the push in order to push it to your own forked repository on GitHub
+git push -f origin main
+```
