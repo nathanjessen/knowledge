@@ -1,4 +1,7 @@
-# Talks
+---
+layout: default
+title: Talks
+---
 
 ## Preparing a Talk
 

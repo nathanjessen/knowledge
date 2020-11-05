@@ -1,4 +1,8 @@
-# Style Guides
+---
+layout: default
+title: Style Guides
+has_children: true
+---
 
 ## Benefits
 

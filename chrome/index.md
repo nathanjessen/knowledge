@@ -1,4 +1,7 @@
-# Chrome
+---
+layout: default
+title: Chrome
+---
 
 ## Dev Tips
 

@@ -1,4 +1,8 @@
-# Font Face Observer
+---
+layout: default
+title: Font Face Observer
+parent: Font
+---
 
 [Bram Stein's Font Face Observer](https://github.com/bramstein/fontfaceobserver)
 

@@ -1,4 +1,8 @@
-# Font Display
+---
+layout: default
+title: Font Display
+parent: Font
+---
 
 Gives us the same power found in browser features such as the [Font Loading API](https://drafts.csswg.org/css-font-loading) and third party scripts such as [Bram Stein's Font Face Observer](https://github.com/bramstein/fontfaceobserver). Helps to prevent us from having to write JS to override some browser behavior and adding additional HTTP requests.
 

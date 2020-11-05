@@ -1,4 +1,7 @@
-# Adobe Enterprise Manager (AEM)
+---
+layout: default
+title: AEM
+---
 
 * [AEM 5.6 - Quick Reference](http://adobe-consulting-services.github.io/aemcasts/qr.html) &mdash; Docs
 * [Adobe Experience Manager 6.1](https://docs.adobe.com/content/docs/en/aem/6-1.html) &mdash; Docs

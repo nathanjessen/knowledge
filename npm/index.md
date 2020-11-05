@@ -1,4 +1,7 @@
-# npm
+---
+layout: default
+title: NPM
+---
 
 ## Useful Commands
 

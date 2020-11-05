@@ -1,4 +1,7 @@
-# Images
+---
+layout: default
+title: Graphics
+---
 
 ## Lazy Load
 

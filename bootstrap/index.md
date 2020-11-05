@@ -1,4 +1,7 @@
-# Bootstrap
+---
+layout: default
+title: Bootstrap
+---
 
 * [Bootstrap](http://getbootstrap.com/) &mdash; v3
 * [Bootstrap v4 Alpha](http://v4-alpha.getbootstrap.com/) &mdash; v4

@@ -1,4 +1,7 @@
-# SEO
+---
+layout: default
+title: AngularJS SEO
+---
 
 - Serve pre-rendered version to the crawler or use server-side rendering
 - Google crawls JS but requires everything that manipulates a URL to be a link

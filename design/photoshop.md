@@ -1,4 +1,7 @@
-# Photoshop
+---
+layout: default
+title: Photoshop
+---
 
 ## Resources
 

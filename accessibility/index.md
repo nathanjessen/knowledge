@@ -1,4 +1,7 @@
-# Accessibility
+---
+layout: default
+title: Accessibility
+---
 
 ## Tips
 

@@ -1,4 +1,8 @@
-# Commands
+---
+layout: default
+title: Commands
+parent: Git
+---
 
 ## Single Command
 

@@ -1,8 +1,12 @@
 # knowledge
 
+**Update in Progress**
+
 Document everything. This repository will contain notes on a wide variety of topics.
 
-**Deprecated: No longer being updated**
+## Local Development
+
+`bundle exec jekyll serve --config _config.yml,_config_local.yml --verbose`
 
 ## See Also
 
@@ -16,4 +20,4 @@ Motivation for this repository came from seeing other developers create their ow
 
 ## License
 
-[MIT](https://tldrlegal.com/license/mit-license)
+[MIT License](http://opensource.org/licenses/MIT).

@@ -1,4 +1,8 @@
-# Font Loading API
+---
+layout: default
+title: Font Loading API
+parent: Font
+---
 
 - [Font Loading API](https://drafts.csswg.org/css-font-loading)
 - [CanIUse](http://caniuse.com/#feat=font-loading)

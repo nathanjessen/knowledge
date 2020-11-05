@@ -1,4 +1,7 @@
-# Regex
+---
+layout: default
+title: Regex
+---
 
 **Change extension of all scss files to css**
 

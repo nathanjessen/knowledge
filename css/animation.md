@@ -1,4 +1,8 @@
-# Animation
+---
+layout: default
+title: Animation
+parent: CSS
+---
 
 ## Fill Mode
 

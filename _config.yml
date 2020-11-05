@@ -1,0 +1,21 @@
+title: Knowledge
+description: Document everything. This repository will contain notes on a wide variety of topics.
+baseurl: "/knowledge"
+url: "https://nathanjessen.com"
+permalink: pretty
+
+theme: null
+remote_theme: pmarsceill/just-the-docs
+
+color_scheme: dark
+
+# Aux links for the upper right navigation
+aux_links:
+  "View on GitHub":
+    - "//github.com/nathanjessen/knowledge"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
+
+# Sort order for navigation links
+nav_sort: case_insensitive

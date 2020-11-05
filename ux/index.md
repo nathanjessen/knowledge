@@ -1,4 +1,7 @@
-# User Experience
+---
+layout: default
+title: UX
+---
 
 ## Google Heart Framework
 

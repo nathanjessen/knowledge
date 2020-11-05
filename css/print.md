@@ -1,4 +1,8 @@
-# Print
+---
+layout: default
+title: Print
+parent: CSS
+---
 
 Intended for paged material and for documents viewed on screen in print preview mode. A member of the [@media](https://developer.mozilla.org/en-US/docs/Web/CSS/@media) CSS at-rule.
 

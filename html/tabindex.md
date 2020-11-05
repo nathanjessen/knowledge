@@ -1,4 +1,8 @@
-# tabindex
+---
+layout: default
+title: Tabindex
+parent: HTML
+---
 
 - HTML core global attribute
 - Controls the order elements will get focus when the user presses the `TAB` key.

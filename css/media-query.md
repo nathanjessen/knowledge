@@ -1,4 +1,8 @@
-# Media Query
+---
+layout: default
+title: Media Query
+parent: CSS
+---
 
 ## Pointer Media Query
 

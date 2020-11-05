@@ -1,4 +1,7 @@
-# Sketch
+---
+layout: default
+title: Sketch
+---
 
 ## Tips
 

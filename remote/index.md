@@ -1,4 +1,7 @@
-# Remote
+---
+layout: default
+title: Remote
+---
 
 ## What Works
 

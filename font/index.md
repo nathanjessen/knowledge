@@ -1,4 +1,8 @@
-# Font
+---
+layout: default
+title: Font
+has_children: true
+---
 
 Our goal should be to optimize the time it takes for a page to load and render. Web fonts require additional HTTP requests and the process is render blocking. To mitigate some of the risk of a slow font download, most browsers implement a timeout after which a fallback font will be used. However, implementation in browsers vary and some don't have a timeout at all.
 

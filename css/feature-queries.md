@@ -1,4 +1,8 @@
-# Feature Queries
+---
+layout: default
+title: Feature Queries
+parent: CSS
+---
 
 - [W3 Spec](http://www.w3.org/TR/css3-conditional/#at-supports)
 - [Browser Support](http://caniuse.com/#feat=css-featurequeries)

@@ -1,4 +1,7 @@
-# JavaScript
+---
+layout: default
+title: JavaScript
+---
 
 ## var, let, const
 
