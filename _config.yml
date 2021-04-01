@@ -4,10 +4,8 @@ baseurl: "/knowledge"
 url: "https://nathanjessen.com"
 permalink: pretty
 
-theme: null
-remote_theme: pmarsceill/just-the-docs
-
 color_scheme: dark
+remote_theme: pmarsceill/just-the-docs
 
 # Aux links for the upper right navigation
 aux_links:

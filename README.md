@@ -1,12 +1,26 @@
 # knowledge
 
-**Update in Progress**
+**No longer maintained**
 
 Document everything. This repository will contain notes on a wide variety of topics.
 
 ## Local Development
 
-`bundle exec jekyll serve --config _config.yml,_config_local.yml --verbose`
+Install
+
+`bundle`
+
+Run local server
+
+`bundle exec jekyll serve`
+
+Run local server with local config
+
+`bundle exec jekyll serve --config _config.yml,_config_local.yml`
+
+Add verbose flag for debugging
+
+`bundle exec jekyll serve --verbose`
 
 ## See Also
 
