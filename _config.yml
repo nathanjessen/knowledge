@@ -4,6 +4,14 @@ baseurl: "/knowledge"
 url: "https://nathanjessen.com"
 permalink: pretty
 
+exclude:
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+
+# color_scheme: custom
 color_scheme: dark
 remote_theme: pmarsceill/just-the-docs
 
@@ -17,3 +25,11 @@ aux_links_new_tab: true
 
 # Sort order for navigation links
 nav_sort: case_insensitive
+
+# Footer "Edit this page on GitHub" link text
+# gh_edit_link: false
+# gh_edit_repository: "https://github.com/nathanjessen/knowledge"
+# gh_edit_branch: "main"
+# gh_edit_link_text: "Edit this page on GitHub."
+# gh_edit_source: docs
+# gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
